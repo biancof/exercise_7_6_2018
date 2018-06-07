@@ -1,0 +1,4 @@
+A:link, A:visited { text-decoration: none; color: black }
+A:hover { text-decoration: underline; }
+hr           { color: #FF0000; margin-top:5; margin-bottom:5 }
+body         { font-family: Verdana; font-size: 10 pt }
