@@ -1,4 +1,4 @@
 A:link, A:visited { text-decoration: none; color: black }
-A:hover { text-decoration: underline; }
+A:hover { text-decoration: underline; color: red}
 hr           { color: #FF0000; margin-top:5; margin-bottom:5 }
 body         { font-family: Verdana; font-size: 10 pt }
